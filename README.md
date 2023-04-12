@@ -11,6 +11,16 @@ Original source - https://allisonhorst.github.io/palmerpenguins/
 [.seaborn](https://seaborn.pydata.org/)
 ## Visualization
 I did a brief analysis on the dataset by using breif function -
-![breif_penguin](https://user-images.githubusercontent.com/78250442/231426545-0ab6391a-4a40-4c43-8e95-f225df23a23f.jpg)
-I creared several visualizations using Seaborn and Matplotlib, including a histogram of the sepal length by class, a scatterplot of the sepal length and petal length colored by class
+![breif_penguin](https://user-images.githubusercontent.com/78250442/231426545-0ab6391a-4a40-4c43-8e95-f225df23a23f.jpg)  
+Visualizations using Seaborn and Matplotlib.  
+
+a) Scatterplot of filpper length and body mass  
+![scatter](https://user-images.githubusercontent.com/78250442/231428644-2141d22f-673f-425e-84dc-aa9764e71588.jpg)  
+b) Pairplot  
+![pairplot](https://user-images.githubusercontent.com/78250442/231428713-166b2840-8a37-417e-81f2-3a1c40047aa2.jpg)  
+c) Histogram of flipper length  
+![histogram](https://user-images.githubusercontent.com/78250442/231429296-2c692675-8431-4a05-94d7-669eb3d236e6.jpg)  
+d) Bar chart of penguin counts by island  
+![barchart](https://user-images.githubusercontent.com/78250442/231429471-9907ffe6-8c62-4fa3-b81d-a3c21d6ab7ff.jpg)
+
 ## Steps
