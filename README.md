@@ -13,7 +13,6 @@ Original source - https://allisonhorst.github.io/palmerpenguins/
 I did a brief analysis on the dataset by using breif function -
 ![breif_penguin](https://user-images.githubusercontent.com/78250442/231426545-0ab6391a-4a40-4c43-8e95-f225df23a23f.jpg)  
 Visualizations using Seaborn and Matplotlib.  
-
 a) Scatterplot of filpper length and body mass  
 ![scatter](https://user-images.githubusercontent.com/78250442/231428644-2141d22f-673f-425e-84dc-aa9764e71588.jpg)  
 b) Pairplot  
