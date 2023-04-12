@@ -6,7 +6,8 @@ I used the penguin dataset.
 Dataset i used - https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
 Original source - https://allisonhorst.github.io/palmerpenguins/
 ## Technologies Used
-[.matpolib](https://matplotlib.org/)
+[.matpolib](https://matplotlib.org/)  
+
 [.seaborn](https://seaborn.pydata.org/)
 ## Visualization
 I did a brief analysis on the dataset by using breif function -
