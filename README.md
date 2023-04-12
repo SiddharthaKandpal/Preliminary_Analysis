@@ -23,3 +23,17 @@ d) Bar chart of penguin counts by island
 ![barchart](https://user-images.githubusercontent.com/78250442/231429471-9907ffe6-8c62-4fa3-b81d-a3c21d6ab7ff.jpg)
 
 ## Steps
+1.Defined a function called brief
+This function takes a pandas dataframe as input and performs the following operations:
+
+. Checks for missing values using Pandas isnull function
+
+. Calculates total number of columns.
+
+. Prints the calculated statis.
+
+. Calculates mode.
+
+2.Then i used read_csv function from Pandas to load it into a DataFrame
+3.Then I called the data_analysis function to perform some data cleaning and analysis
+4.Then i created some visualizations using Matplotlib and Seaborn
