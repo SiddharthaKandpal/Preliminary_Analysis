@@ -6,6 +6,9 @@ I used the penguin dataset.
 Dataset i used - https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
 Original source - https://allisonhorst.github.io/palmerpenguins/
 ## Visualization
+I did a brief analysis on the dataset using breif function -
+![breif_penguin](https://user-images.githubusercontent.com/78250442/231426545-0ab6391a-4a40-4c43-8e95-f225df23a23f.jpg)
 
+several visualizations using Seaborn and Matplotlib, including a histogram of the sepal length by class, a scatterplot of the sepal length and petal length colored by class
 ## Technologies Used
 ## Steps
